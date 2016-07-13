@@ -1,0 +1,21 @@
+Emma Ladouceur
+
+//This is most likely incorrect because I didn't really understand the memory leaks, but I looked up a bunch of stuff
+
+
+1.
+abcabc1
+abc1
+abc123
+
+2.
+I think it's 0 but i'm not sure
+
+
+3.
+NONE
+
+
+4.
+
+NO CHANGE
